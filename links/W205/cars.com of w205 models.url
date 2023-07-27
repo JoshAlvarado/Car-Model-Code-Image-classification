@@ -2,4 +2,5 @@
 Prop3=19,11
 [InternetShortcut]
 IDList=
-URL=https://www.cars.com/shopping/results/?body_style_slugs[]=sedan&dealer_id=&keyword=&list_price_max=&list_price_min=&makes[]=mercedes_benz&maximum_distance=all&mileage_max=&models[]=mercedes_benz-c_class&monthly_payment=&page_size=20&sort=best_match_desc&stock
+URL=https://www.cars.com/shopping/results/?body_style_slugs[]=sedan&dealer_id=&keyword=&list_price_max=&list_price_min=&makes[]=mercedes_benz&maximum_distance=all&mileage_max=&models[]=mercedes_benz-c_class&monthly_payment=&page_size=20&sort=list_price_desc&stock_type=all&year_max=2020&year_min=2015&zip=91331
+HotKey=0
