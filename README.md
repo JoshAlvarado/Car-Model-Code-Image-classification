@@ -12,7 +12,7 @@ The Mercedes Vehicle Classification System (MVCS) aims to accurately identify an
 - **Classification Categories:** The primary classification categories will be:
   - Make (e.g., Mercedes-Benz)
   - Model (e.g., C300, E350)
-  - Code Model (e.g., W206 for the C300)
+  - Code Model (e.g., W206 for the C300 2014-2021, W205 for the C300 20)
 
 ### Goals
 1. **Develop a Deep Learning Model:** Create a convolutional neural network (CNN) that can classify images of Mercedes vehicles into their respective categories.
