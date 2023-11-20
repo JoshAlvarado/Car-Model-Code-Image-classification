@@ -38,3 +38,4 @@ The Mercedes Vehicle Classification System (MVCS) aims to accurately identify an
 This project not only aims to build a practical AI tool but also serves as a comprehensive learning experience in deep learning, image processing, and the application of AI in the automotive industry.
 
 https://github.com/JoshAlvarado/Car.com-Image-Scraper to automate the dataset process
+https://www.kaggle.com/datasets/riotulab/car-make-model-and-generation
